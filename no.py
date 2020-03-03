@@ -12,3 +12,4 @@ while ia:
     ia -= 1
     if type(an) == int: li.append(an)
 print(li)
+print("第二次更改")
